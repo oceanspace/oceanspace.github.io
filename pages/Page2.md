@@ -1,15 +1,14 @@
 ---
 layout: page
 title: Page 2
-permalink: Page2.html
 description: Page 2
 ---
 
-## Header
+## section 1
 
 Text 
 
-## Header
+## section 2
 
 Text
 

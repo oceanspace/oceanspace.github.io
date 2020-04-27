@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Page 2
+permalink: Page2.html
 description: Page 2
 ---
 

@@ -2,8 +2,8 @@
 layout: page
 title: Publications
 permalink: Page3.html
-description: Peer-reviewed
+description: Peer-reviewed & Conference abstracts
 ---
-On Google Scholar: https://scholar.google.com/citations?user=uEd0tRMAAAAJ&hl=en
 
+<a href="https://scholar.google.com/citations?user=uEd0tRMAAAAJ&hl=en">Google Scholar Profile</a>
 

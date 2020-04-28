@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Page 1
+title: Resources
 permalink: Page1.html
 description: Description
 ---

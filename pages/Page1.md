@@ -2,10 +2,10 @@
 layout: page
 title: Resources
 permalink: Page1.html
-description: Description
+description: Some of my favorite things
 ---
 
 
-## page 1
+## Tools
 
 text 

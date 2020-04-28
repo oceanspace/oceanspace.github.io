@@ -6,11 +6,10 @@ description: Some of my favorite things
 ---
 
 ## references
-simple guide to github: https://rogerdudler.github.io/git-guide/
+<a href="https://rogerdudler.github.io/git-guide/">simple guide to github</a>
 
-
-## Getting started: 
-data literacy and training: https://datacarpentry.org/
-atmosphere and ocean data: https://carpentrieslab.github.io/python-aos-lesson/
+## getting started
+<a href="https://datacarpentry.org/">data literacy and training</a>
+<a href="https://carpentrieslab.github.io/python-aos-lesson/">Atmosphere and Ocean lessons from Data Carpentry</a>
 
 ## datasets 

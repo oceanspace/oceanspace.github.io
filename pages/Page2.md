@@ -2,7 +2,7 @@
 layout: page
 title: Blog
 permalink: Page2.html
-description: Page 2
+description: data-science related readings and news
 ---
 
 ## section 1

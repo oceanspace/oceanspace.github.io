@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Page 2
+title: Blog
 permalink: Page2.html
 description: Page 2
 ---

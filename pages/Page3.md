@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Page 3
+title: Publications
 permalink: Page3.html
 description: page3
 ---

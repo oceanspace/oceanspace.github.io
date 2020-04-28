@@ -1,9 +1,8 @@
 ---
 layout: page
 title: About
-description: about
+description: Thoughts about our planet and data
 ---
-# About page
-
-This page tells you a little bit about me.
+# header
+text
 

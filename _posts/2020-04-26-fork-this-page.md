@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Fork this page
 description: Instructions on making this website your own
 image: iceland.jpg

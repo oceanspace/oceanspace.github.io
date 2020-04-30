@@ -2,22 +2,13 @@
 layout: page
 title: Blog
 permalink: Page2.html
-description: data-science related readings and news
+description: Readings, Resources, News
 ---
 
-## section 1
-
-Text 
-
-## section 2
-
-Text
-
-## Links
+## Posts
 
 - [A](#A)
 - [B](#B)
-
 
 ### A
 

@@ -5,21 +5,19 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
-
 {% include head.html %}
 
 <body>
-
     {% include header.html %}
 
     <!-- Main -->
     <article id="main">
         <header{% if page.image %} style="background-image: url('{% if site.featured-image-source %}{{ page.image | prepend: site.featured-image-source | absolute_url }}{% else %}{{ "" | absolute_url }}/assets/images/{{ page.image }}{% endif %}');"{% endif %}>
             <h2>{{ page.title }}</h2>
+            <p>{{ page.description }}</p>
         </header>
         <section class="wrapper style5">
             <div class="inner">
-
 		<ul class="homepage-list" style="list-style:none;padding:1rem 0;">
 		{% for post in site.posts %}
 		  <li style="align-items:center;display:flex;flex-wrap:wrap;justify-content:space-between;margin-bottom:10px;">
@@ -28,8 +26,6 @@
 		  </li>
 		{% endfor %}
 		</ul>
-
-
             </div>
         </section>
     </article>

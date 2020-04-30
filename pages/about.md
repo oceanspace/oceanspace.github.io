@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: about.html
 description: What's "oceanspace"? 
+image: ChukchiSea.jpg
 ---
 Imagine you could take a picture of a tree at the same time every single day. Over the course of a year, what would it look like? It would be green in summer and bare in winter (if your tree is in a place that has seasons). In the ocean, there are microscopic algae floating around with the waters' currents. These aquatic photosynthesizers are drifters, unlike the leaves on a tree that is fixed in place. 
 <br>

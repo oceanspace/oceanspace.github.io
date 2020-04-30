@@ -11,4 +11,4 @@ image: iceland.jpg
   - banner.html: edit button names and # of buttons 
   - edit the sections. to edit section 2, you will have to go to posts 
 4. Under posts/ edit the blog entry. The title and description will appear on your front page. 
-5. Learn more with this <a href="https://jekyllrb.com/docs/step-by-step/01-setup/">step by step tutorial for Jekyll</a>
+5. Learn more with this <a href="https://jekyllrb.com/docs/step-by-step/01-setup/"  target=”_blank”>step by step tutorial for Jekyll</a>

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Fork this page
+permalink: fork-this-page.html
 description: Instructions on making this website your own
 image: iceland.jpg
 ---

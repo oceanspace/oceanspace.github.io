@@ -6,7 +6,7 @@ description: Some of my favorite things
 ---
 
 ## references
-<p style="font-size:18px"> 
+<p style="font-size:24px"> 
 <b> <a href="https://rogerdudler.github.io/git-guide/" target="_blank">simple guide to github</a> </b>
 </p>
 

@@ -6,7 +6,9 @@ description: Some of my favorite things
 ---
 
 ## references
+<p style="font-size:18px"> 
 <b> <a href="https://rogerdudler.github.io/git-guide/" target="_blank">simple guide to github</a> </b>
+</p>
 
 ## getting started
 <b> <a href="https://datacarpentry.org/" target="_blank">data literacy and training from data carpentry</a> </b> <br>

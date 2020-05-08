@@ -11,5 +11,5 @@ image: geostationary.png
 <br>Tackling Climate Change with Machine Learning 
 <br>
 <br><a href="https://www.greentechmedia.com/articles/read/beyond-forecasting-artificial-intelligence-is-a-powerful-decarbonization-tool" target="_blank">podcast</a>
-
+<br>from Greentech Media
 

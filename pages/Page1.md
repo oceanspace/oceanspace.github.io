@@ -10,9 +10,10 @@ description: Some of my favorite things
 
 ## getting started
 <a href="https://datacarpentry.org/" target="_blank">data literacy and training from data carpentry</a><br>
---> <a href="https://carpentrieslab.github.io/python-aos-lesson/" target="_blank">atmosphere and ocean lessons</a>: Python lessons for gridded netCDF files 
+--> <a href="https://carpentrieslab.github.io/python-aos-lesson/" target="_blank">atmosphere and ocean lessons</a> 
 <br> 
-<br><a href="https://docs.python.org/3/tutorial/" target="_blank">python tutorial</a>: The old school way to learn... Read through a section or two each day and follow along with your favorite dataset. 
+<br><a href="https://docs.python.org/3/tutorial/" target="_blank">python tutorial</a>
+The old school way to learn... Read through a section or two each day and follow along with your favorite dataset. 
 <br>  
 
 ## datasets 

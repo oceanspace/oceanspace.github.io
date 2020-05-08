@@ -10,21 +10,21 @@ description: Some of my favorite things
 the essentials 
 <br> 
 #### <a href="https://www.python.org/dev/peps/pep-0008/" target="_blank">style guide for python code</a> 
-This is an extensive style guide, find the key points <a href="https://docs.python.org/3/tutorial/controlflow.html#intermezzo-coding-style" target="_blank">here</a>.
+this is an extensive style guide, find the key points <a href="https://docs.python.org/3/tutorial/controlflow.html#intermezzo-coding-style" target="_blank">here</a>.
 <br> 
 
 ## getting started
 #### <a href="https://datacarpentry.org/" target="_blank">data literacy and training from data carpentry</a> 
 --> <a href="https://carpentrieslab.github.io/python-aos-lesson/" target="_blank">atmosphere and ocean lessons</a>
-domain specific data workshops, including python for atmosphere and ocean netCDF files
+<br> domain specific data workshops, including python for atmosphere and ocean netCDF files
 <br> 
 #### <a href="https://docs.python.org/3/tutorial/" target="_blank">python tutorial</a> 
-The old school way to learn... Read through a section of this excellent tutorial and follow along with your favorite dataset. 
+the old school way to learn... Read through a section of this excellent tutorial and follow along with your favorite dataset. 
 <br> 
 
 ## on my github 
 #### <a href="https://github.com/oceanspace/coursera-machine-learning-exercises" target="_blank">machine learning exercises</a>
-My solutions for the exercises in <a href="https://www.coursera.org/learn/machine-learning" target="_blank">Andrew Ng's Coursera Machine Learning class</a> translated to python 
+my solutions for the exercises in <a href="https://www.coursera.org/learn/machine-learning" target="_blank">Andrew Ng's Coursera Machine Learning class</a> translated to python 
 <br>
 #### <a href="https://github.com/oceanspace/Chesapeake-Bay-machine-learning-tutorial" target="_blank">machine learning for an estuarine water quality dataset</a> 
 I started adapting the exercises above to data from the <a href="https://www.chesapeakebay.net/what/downloads/cbp_water_quality_database_1984_present" target="_blank">

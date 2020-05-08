@@ -19,9 +19,9 @@ This is an extensive style guide, find the key points <a href="https://docs.pyth
 The old school way to learn... Read through a section of this excellent tutorial and follow along with your favorite dataset. 
 
 ## on my github 
-#### <a href="https://github.com/oceanspace/coursera-machine-learning-exercises" target="_blank">machine Learning Exercises</a>
+#### <a href="https://github.com/oceanspace/coursera-machine-learning-exercises" target="_blank">machine learning exercises</a>
 My solutions for the exercises in <a href="https://www.coursera.org/learn/machine-learning" target="_blank">Andrew Ng's Coursera Machine Learning class</a> translated to python 
 <br>
-#### <a href="https://github.com/oceanspace/Chesapeake-Bay-machine-learning-tutorial" target="_blank">machine Learning for an estuarine water quality dataset</a> 
+#### <a href="https://github.com/oceanspace/Chesapeake-Bay-machine-learning-tutorial" target="_blank">machine learning for an estuarine water quality dataset</a> 
 I started adapting the exercises above to data from the <a href="https://www.chesapeakebay.net/what/downloads/cbp_water_quality_database_1984_present" target="_blank">
 Chesapeake Bay Program water quality dataset</a>. Only one exercise for now, possibly more to come.

@@ -1,3 +1,6 @@
+The original template 
+[https://andrewbanchich.gitlab.io/spectral-jekyll-theme/]
+
 # Spectral - Jekyll Theme
 
 A Jekyll version of the "Spectral" theme by [HTML5 UP](https://html5up.net/).

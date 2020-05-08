@@ -1,5 +1,5 @@
 The original template 
-[https://andrewbanchich.gitlab.io/spectral-jekyll-theme/]
+[https://andrewbanchich.gitlab.io/spectral-jekyll-theme/](https://andrewbanchich.gitlab.io/spectral-jekyll-theme/)
 
 # Spectral - Jekyll Theme
 

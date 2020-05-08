@@ -22,9 +22,9 @@ description: Some of my favorite things
 ## on my github 
 <p style="font-size:20px"> 
 <b> <a href="https://github.com/oceanspace/coursera-machine-learning-exercises" target="_blank">Machine Learning Exercises</a></b> </p>
-<br>My solutions for the exercises in <a href="https://www.coursera.org/learn/machine-learning" target="_blank">Andrew Ng's Coursera Machine Learning class</a> translated to python 
+My solutions for the exercises in <a href="https://www.coursera.org/learn/machine-learning" target="_blank">Andrew Ng's Coursera Machine Learning class</a> translated to python 
 <br>
 <p style="font-size:20px"> 
 <b> <a href="https://github.com/oceanspace/Chesapeake-Bay-machine-learning-tutorial" target="_blank">Machine Learning for an estuarine water quality dataset</a> </b> </p>
-<br>I started adapting the exercises above to data from the <a href="https://www.chesapeakebay.net/what/downloads/cbp_water_quality_database_1984_present" target="_blank">
+I started adapting the exercises above to data from the <a href="https://www.chesapeakebay.net/what/downloads/cbp_water_quality_database_1984_present" target="_blank">
 Chesapeake Bay Program water quality dataset</a>. Only one exercise for now, possibly more to come.

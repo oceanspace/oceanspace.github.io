@@ -6,7 +6,10 @@ description: Some of my favorite things
 ---
 
 ## references
-<b> <a href="https://rogerdudler.github.io/git-guide/" target="_blank">simple guide to github</a> </b> 
+# <b> <a href="https://rogerdudler.github.io/git-guide/" target="_blank">simple guide to github</a> </b> 
+<br>
+<br><b> <a href="https://www.python.org/dev/peps/pep-0008/" target="_blank">style guide for python code</a> </b> 
+
 
 ## getting started
 <b> <a href="https://datacarpentry.org/" target="_blank">data literacy and training from data carpentry</a> </b> 

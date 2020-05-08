@@ -7,7 +7,6 @@ description: Some of my favorite things
 
 ## references
 #### <a href="https://rogerdudler.github.io/git-guide/" target="_blank">simple guide to github</a> 
-<br> 
 
 #### <a href="https://www.python.org/dev/peps/pep-0008/" target="_blank">style guide for python code</a> 
 This is an extensive style guide, find the key points <a href="https://docs.python.org/3/tutorial/controlflow.html#intermezzo-coding-style" target="_blank">here</a>.

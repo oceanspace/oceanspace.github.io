@@ -11,12 +11,12 @@ description: Some of my favorite things
 
 ## getting started
 <p style="font-size:20px"> 
-<b> <a href="https://datacarpentry.org/" target="_blank">data literacy and training from data carpentry</a> </b> <br> </p>
+<b> <a href="https://datacarpentry.org/" target="_blank">data literacy and training from data carpentry</a> </b> </p>
 --> <a href="https://carpentrieslab.github.io/python-aos-lesson/" target="_blank">atmosphere and ocean lessons</a>
 <br> domain specific data workshops, including python for atmosphere and ocean netCDF files
 <br> 
 <p style="font-size:20px"> 
-<br><b> <a href="https://docs.python.org/3/tutorial/" target="_blank">python tutorial</a></b> </p>
+<br><b> <a href="https://docs.python.org/3/tutorial/" target="_blank">python tutorial</a> </b> </p>
 <br>The old school way to learn... Read through a section of this excellent tutorial and follow along with your favorite dataset. 
 
 ## on my github 

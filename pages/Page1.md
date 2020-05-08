@@ -21,8 +21,7 @@ description: Some of my favorite things
 
 ## on my github 
 <p style="font-size:20px"> 
-<b> <a href="https://github.com/oceanspace/coursera-machine-learning-exercises" target="_blank">Machine Learning Exercises</a </p>
-</b>
+<b> <a href="https://github.com/oceanspace/coursera-machine-learning-exercises" target="_blank">Machine Learning Exercises</a></b> </p>
 <br>My solutions for the exercises in <a href="https://www.coursera.org/learn/machine-learning" target="_blank">Andrew Ng's Coursera Machine Learning class</a> translated to python 
 <br>
 <p style="font-size:20px"> 

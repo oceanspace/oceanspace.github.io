@@ -6,7 +6,7 @@ description: Some of my favorite things
 ---
 
 ## references
-### <b> <a href="https://rogerdudler.github.io/git-guide/" target="_blank">simple guide to github</a> </b> 
+### <a href="https://rogerdudler.github.io/git-guide/" target="_blank">simple guide to github</a> 
 <br>
 <br><b> <a href="https://www.python.org/dev/peps/pep-0008/" target="_blank">style guide for python code</a> </b> 
 

@@ -7,9 +7,9 @@ image: geostationary.png
 ---
 <a href="https://www.climatechange.ai/" target="_blank">climatechange.ai</a>
 <br>
-<a href="https://arxiv.org/pdf/1906.05433.pdf" target="_blank">the paper</a>
+<br><a href="https://arxiv.org/pdf/1906.05433.pdf" target="_blank">the paper</a>
 <br>Tackling Climate Change with Machine Learning 
 <br>
-<a href="https://www.greentechmedia.com/articles/read/beyond-forecasting-artificial-intelligence-is-a-powerful-decarbonization-tool" target="_blank">podcast</a>
+<br><a href="https://www.greentechmedia.com/articles/read/beyond-forecasting-artificial-intelligence-is-a-powerful-decarbonization-tool" target="_blank">podcast</a>
 
 

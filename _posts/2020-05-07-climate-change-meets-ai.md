@@ -12,5 +12,5 @@ This paper outlines opportunities where machine learning can help address the ma
 One of the leaders of this group was recently featured on [a podcast by Greentech Media](https://www.greentechmedia.com/articles/read/beyond-forecasting-artificial-intelligence-is-a-powerful-decarbonization-tool), which was a nice way to hear some of the key application areas in an interview format.  
   
 Want to learn about climate science? These are some free lecture series. They go pretty far in depth, but the essentials are covered in the beginning third or so of these courses (intro/overview, energy budget, greenhouse gases). 
-* [Climate Change: Science and Global Imapact](https://www.edx.org/course/climate-change-the-science-and-global-impact)
+* [Climate Change: Science and Global Impact](https://www.edx.org/course/climate-change-the-science-and-global-impact)
 * [Climate Literacy](https://www.youtube.com/user/climateliteracy/featured)

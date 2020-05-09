@@ -13,4 +13,4 @@ One of the leaders of this group was recently featured on [a podcast by Greentec
   
 Want to learn about climate science? These are some free lecture series. They go pretty far in depth, but the essentials are covered in the beginning third or so of these courses (intro/overview, energy budget, greenhouse gases). 
 * [Climate Change: Science and Global Imapact](https://www.edx.org/course/climate-change-the-science-and-global-impact)
-* [Climate Change Literacy](https://www.youtube.com/user/climateliteracy/featured)
+* [Climate Literacy](https://www.youtube.com/user/climateliteracy/featured)

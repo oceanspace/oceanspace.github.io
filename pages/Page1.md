@@ -26,7 +26,7 @@ the old school way to learn... Read through a section of this excellent tutorial
 
 ## on my github 
 #### <a href="https://github.com/oceanspace/coursera-machine-learning-exercises" target="_blank">machine learning exercises</a>
-my solutions for the exercises in <a href="https://www.coursera.org/learn/machine-learning" target="_blank">Andrew Ng's Coursera Machine Learning class</a> translated to python 
+my solutions for the exercises in <a href="https://www.coursera.org/learn/machine-learning" target="_blank">Andrew Ng's Coursera Machine Learning class</a> translated to python. Exercises 1-4 are available for now, I will possibly resume this later on. 
 <br>
 #### <a href="https://github.com/oceanspace/Chesapeake-Bay-machine-learning-tutorial" target="_blank">machine learning for an estuarine water quality dataset</a> 
 I started adapting the exercises above to data from the <a href="https://www.chesapeakebay.net/what/downloads/cbp_water_quality_database_1984_present" target="_blank">

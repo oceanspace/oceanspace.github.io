@@ -18,11 +18,10 @@ this is an extensive style guide, find the key points <a href="https://docs.pyth
 --> <a href="https://carpentrieslab.github.io/python-aos-lesson/" target="_blank">atmosphere and ocean lessons</a>
 <br> domain specific data workshops, including python for atmosphere and ocean netCDF files
 <br> 
-#### <a href="https://docs.python.org/3/tutorial/" target="_blank">python tutorial</a> 
-the old school way to learn... Read through a section of this excellent tutorial and follow along with your favorite dataset. 
-<br> 
 #### [whirlwind tour of python](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/tree/master/)
-... or a more modern way to learn. Follow along with this series of Jupyter Notebooks. 
+Follow along with this series of Jupyter Notebooks. 
+#### [R for Data Science](https://r4ds.had.co.nz/index.html)
+An excellent online textbook for R learning and reference 
 
 ## on my github 
 #### <a href="https://github.com/oceanspace/coursera-machine-learning-exercises" target="_blank">machine learning exercises</a>

@@ -3,7 +3,7 @@ layout: page
 title: My first hackathon
 permalink: hackathon-win.html
 description: Excited to be part of a winning team for a Hackathon for Social Good
-image: iceland.jpg
+image: https://eoimages.gsfc.nasa.gov/images/imagerecords/89000/89003/wicomico_oli_2014290.jpg
 ---
 I had a great time working with an amazing team as part of a hackathon submission. It was my first time making a video tutorial and final code product for sharing broadly.
 

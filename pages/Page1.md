@@ -12,6 +12,7 @@ the essentials
 #### <a href="https://www.python.org/dev/peps/pep-0008/" target="_blank">style guide for python code</a> 
 this is an extensive style guide, find the key points <a href="https://docs.python.org/3/tutorial/controlflow.html#intermezzo-coding-style" target="_blank">here</a>.
 <br> 
+<br> 
 
 ## getting started
 #### <a href="https://datacarpentry.org/" target="_blank">data literacy and training from data carpentry</a> 
@@ -22,6 +23,8 @@ this is an extensive style guide, find the key points <a href="https://docs.pyth
 Follow along with this series of Jupyter Notebooks. 
 #### [R for Data Science](https://r4ds.had.co.nz/index.html)
 An excellent online textbook for R learning and reference 
+<br> 
+<br> 
 
 ## on my github 
 #### <a href="https://github.com/oceanspace/DatabricksHackathon" target="_blank">Winning Hackathon Submission & Geospatial Tutorial</a>

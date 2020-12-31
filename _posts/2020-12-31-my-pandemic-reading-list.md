@@ -17,18 +17,18 @@ image: 48442402376_8638fa3845_o.jpg
 [I'm Still Here: Black Dignity in a World Made for Whiteness by Austin Channing Brown](http://austinchanning.com/the-book)  
 <br/>
 
-[Solutions and Other Problems by Allie Brosh](http://hyperboleandahalf.blogspot.com/)
+[Solutions and Other Problems by Allie Brosh](http://hyperboleandahalf.blogspot.com/)<br/>
 This book made me laugh so hard and rang so painfully true at the same time that I was uncontrollably crying through this.  
 <br/>
 
-[Zen in the Art of Writing by Ray Bradbury](https://www.goodreads.com/book/show/103761.Zen_in_the_Art_of_Writing)
+[Zen in the Art of Writing by Ray Bradbury](https://www.goodreads.com/book/show/103761.Zen_in_the_Art_of_Writing)  
 <br/> 
 
-[For the Love of Men: From Toxic to a More Mindful Masculinity by Elizabeth Plank](http://www.elizabethplank.com/book)
+[For the Love of Men: From Toxic to a More Mindful Masculinity by Elizabeth Plank](http://www.elizabethplank.com/book)<br/>
 My reading of this book was inspired by Dax Shepard's awareness-raising conversations around toxic masculinity.  
 <br/>
 
-[All We Can Save edited by Dr. Ayana Elizabeth Johnson & Dr. Katharine K. Wilkinson](https://www.allwecansave.earth/)
+[All We Can Save edited by Dr. Ayana Elizabeth Johnson & Dr. Katharine K. Wilkinson](https://www.allwecansave.earth/)<br/>
 Just beautiful.  
 <br/>
 

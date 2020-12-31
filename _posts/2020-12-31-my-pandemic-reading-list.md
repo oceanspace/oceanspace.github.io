@@ -6,7 +6,7 @@ description: Through the pandemic towards a new normal
 image: 48442402376_8638fa3845_o.jpg
 ---
 
-### Themes: gender, race, and writing to cope with difficulty 
+### Themes: gender, race, coping with difficult people, time, writing
 <br/>
 
 [Dear Ijeawele, or a Feminist Manifesto in Fifteen Suggestions by Chimamanda Ngozi Adichie](https://www.chimamanda.com/book/dear-ijeawele-or-a-feminist-manifesto-in-fifteen-suggestions/)  
@@ -15,7 +15,19 @@ image: 48442402376_8638fa3845_o.jpg
 [I'm Still Here: Black Dignity in a World Made for Whiteness by Austin Channing Brown](http://austinchanning.com/the-book)  
 <br/>
 
-[Emotional Vampires at Work: Dealing with Bosses and Coworkers Who Drain You Dry by Albert J. Bernstein](https://www.goodreads.com/book/show/17118698-emotional-vampires-at-work)
+[Becoming by Michelle Obama](https://becomingmichelleobama.com/)  
+<br/>
+
+[5 Types of People Who Can Ruin Your Life: Identifying and Dealing with Narcissists, Sociopaths, and Other High-Conflict Personalities by Bill Eddy](https://www.highconflictinstitute.com/bookstores/5-types-of-people-who-can-ruin-your-life)  
+<br/>
+
+[Emotional Vampires at Work: Dealing with Bosses and Coworkers Who Drain You Dry by Albert J. Bernstein](https://www.goodreads.com/book/show/17118698-emotional-vampires-at-work)  
+<br/>
+
+[Here by Richard McGuire](https://www.richard-mcguire.com/new-page-4)  
+<br/>
+
+[The View from the Cheap Seats: Selected Nonfiction by Neil Gaiman](https://www.neilgaiman.com/works/Books/The+View+from+the+Cheap+Seats%3A+Selected+Nonfiction/)
 <br/>
 
 [Solutions and Other Problems by Allie Brosh](http://hyperboleandahalf.blogspot.com/)<br/>

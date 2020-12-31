@@ -24,5 +24,6 @@ My reading of this book was inspired by Dax Shepard's awareness-raising conversa
 Just beautiful.  
 
 <br/>
-And some final sentiments, beautifully captured by Sonya Renee Taylor <br/>
+And some final sentiments <br/>
+<br/>
 <img src="../assets/images/sonyareneetaylor.jpg" width="400">

@@ -27,7 +27,7 @@ image: 48442402376_8638fa3845_o.jpg
 [Here by Richard McGuire](https://www.richard-mcguire.com/new-page-4)  
 <br/>
 
-[The View from the Cheap Seats: Selected Nonfiction by Neil Gaiman](https://www.neilgaiman.com/works/Books/The+View+from+the+Cheap+Seats%3A+Selected+Nonfiction/)
+[The View from the Cheap Seats: Selected Nonfiction by Neil Gaiman](https://www.neilgaiman.com/works/Books/The+View+from+the+Cheap+Seats%3A+Selected+Nonfiction/)  
 <br/>
 
 [Solutions and Other Problems by Allie Brosh](http://hyperboleandahalf.blogspot.com/)<br/>

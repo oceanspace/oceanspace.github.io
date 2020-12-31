@@ -10,11 +10,19 @@ My reading list for 2020.
 
 Themes: gender, race, and writing to cope with difficulty. 
 
+[Dear Ijeawele, or a Feminist Manifesto in Fifteen Suggestions by Chimamanda Ngozi Adichie](https://www.chimamanda.com/book/dear-ijeawele-or-a-feminist-manifesto-in-fifteen-suggestions/)  
 
-[Dear Ijeawele, or a Feminist Manifesto in Fifteen Suggestions by Chimamanda Ngozi Adichie](https://www.goodreads.com/book/show/33585392-dear-ijeawele-or-a-feminist-manifesto-in-fifteen-suggestions?from_search=true&from_srp=true&qid=U7URQtkbhZ&rank=1){:target="_blank"}
+[I'm Still Here: Black Dignity in a World Made for Whiteness by Austin Channing Brown](http://austinchanning.com/the-book)  
 
-[Solutions and Other Problems by Allie Brosh](https://www.goodreads.com/book/show/51323365-solutions-and-other-problems){:target="_blank"}
-This book made me laugh so hard and rang so painfully true at the same time that I was uncontrollably crying through this. 
+[Solutions and Other Problems by Allie Brosh](http://hyperboleandahalf.blogspot.com/)
+This book made me laugh so hard and rang so painfully true at the same time that I was uncontrollably crying through this.  
 
-And some final sentiments, beautifully captured by Sonya Renee Taylor 
+[For the Love of Men: From Toxic to a More Mindful Masculinity by Elizabeth Plank](http://www.elizabethplank.com/book)
+My reading of this book was inspired by Dax Shepard's awareness-raising conversations around toxic masculinity.  
+
+[All We Can Save edited by Dr. Ayana Elizabeth Johnson & Dr. Katharine K. Wilkinson](https://www.allwecansave.earth/)
+Just beautiful.  
+
+<br/>
+And some final sentiments, beautifully captured by Sonya Renee Taylor <br/>
 <img src="../assets/images/sonyareneetaylor.jpg" width="400">

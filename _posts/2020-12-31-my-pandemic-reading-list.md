@@ -9,7 +9,7 @@ image: 48442402376_8638fa3845_o.jpg
 ### Themes: gender, race, coping with difficult people, time, writing
 <br/>
 
-[Dear Ijeawele, or a Feminist Manifesto in Fifteen Suggestions by Chimamanda Ngozi Adichie](https://www.chimamanda.com/book/dear-ijeawele-or-a-feminist-manifesto-in-fifteen-suggestions/)  
+* [Dear Ijeawele, or a Feminist Manifesto in Fifteen Suggestions by Chimamanda Ngozi Adichie](https://www.chimamanda.com/book/dear-ijeawele-or-a-feminist-manifesto-in-fifteen-suggestions/)  
 <br/>
 
 [I'm Still Here: Black Dignity in a World Made for Whiteness by Austin Channing Brown](http://austinchanning.com/the-book)  

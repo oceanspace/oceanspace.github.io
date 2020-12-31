@@ -15,6 +15,9 @@ image: 48442402376_8638fa3845_o.jpg
 [I'm Still Here: Black Dignity in a World Made for Whiteness by Austin Channing Brown](http://austinchanning.com/the-book)  
 <br/>
 
+[Emotional Vampires at Work: Dealing with Bosses and Coworkers Who Drain You Dry by Albert J. Bernstein](https://www.goodreads.com/book/show/17118698-emotional-vampires-at-work)
+<br/>
+
 [Solutions and Other Problems by Allie Brosh](http://hyperboleandahalf.blogspot.com/)<br/>
 This book made me laugh so hard and rang so painfully true at the same time that I was uncontrollably crying through this.  
 <br/>

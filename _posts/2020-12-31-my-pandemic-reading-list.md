@@ -8,7 +8,8 @@ image: 48442402376_8638fa3845_o.jpg
 
 My reading list for 2020.  
 
-Themes: gender, race, and writing.  
+Themes: gender, race, and writing to cope with difficulty. 
+
 
 
 

@@ -8,7 +8,7 @@ image: 48442402376_8638fa3845_o.jpg
 
 My reading list for 2020.  
 
-Themes: gender, race, and writing to cope with difficulty. 
+Themes: gender, race, and writing to cope with difficulty.  
 <br/>
 
 [Dear Ijeawele, or a Feminist Manifesto in Fifteen Suggestions by Chimamanda Ngozi Adichie](https://www.chimamanda.com/book/dear-ijeawele-or-a-feminist-manifesto-in-fifteen-suggestions/)  
@@ -17,6 +17,8 @@ Themes: gender, race, and writing to cope with difficulty.
 
 [Solutions and Other Problems by Allie Brosh](http://hyperboleandahalf.blogspot.com/)
 This book made me laugh so hard and rang so painfully true at the same time that I was uncontrollably crying through this.  
+
+[Zen in the Art of Writing by Ray Bradbury](https://www.goodreads.com/book/show/103761.Zen_in_the_Art_of_Writing)
 
 [For the Love of Men: From Toxic to a More Mindful Masculinity by Elizabeth Plank](http://www.elizabethplank.com/book)
 My reading of this book was inspired by Dax Shepard's awareness-raising conversations around toxic masculinity.  

@@ -8,7 +8,7 @@ image: 48442402376_8638fa3845_o.jpg
 
 ### My reading list for 2020.  
 
-### Themes: gender, race, and writing to cope with difficulty.  
+#### Themes: gender, race, and writing to cope with difficulty.  
 <br/>
 
 [Dear Ijeawele, or a Feminist Manifesto in Fifteen Suggestions by Chimamanda Ngozi Adichie](https://www.chimamanda.com/book/dear-ijeawele-or-a-feminist-manifesto-in-fifteen-suggestions/)  
@@ -33,6 +33,6 @@ Just beautiful.
 <br/>
 
 <br/>
-And some final sentiments <br/>
+#### And some final sentiments <br/>
 <br/>
 <img src="../assets/images/sonyareneetaylor.jpg" width="400">

@@ -5,9 +5,8 @@ permalink: 2020books.html
 description: Through the pandemic towards a new normal
 image: 48442402376_8638fa3845_o.jpg
 ---
-
+### My pandemic reading list ... 
 ### Themes: gender, race, coping with difficult people, time, writing
-<br/>
 
 [Dear Ijeawele, or a Feminist Manifesto in Fifteen Suggestions by Chimamanda Ngozi Adichie](https://www.chimamanda.com/book/dear-ijeawele-or-a-feminist-manifesto-in-fifteen-suggestions/)  
 <br/>
@@ -31,7 +30,7 @@ image: 48442402376_8638fa3845_o.jpg
 <br/>
 
 [Solutions and Other Problems by Allie Brosh](http://hyperboleandahalf.blogspot.com/)<br/>
-This book made me laugh so hard and rang so painfully true at the same time that I was uncontrollably crying through this.  
+This book made me laugh so hard and rang so painfully true at the same time. 
 <br/>
 
 [Zen in the Art of Writing by Ray Bradbury](https://www.goodreads.com/book/show/103761.Zen_in_the_Art_of_Writing)  
@@ -42,7 +41,7 @@ My reading of this book was inspired by Dax Shepard's awareness-raising conversa
 <br/>
 
 [All We Can Save edited by Dr. Ayana Elizabeth Johnson & Dr. Katharine K. Wilkinson](https://www.allwecansave.earth/)<br/>
-Just beautiful.  
+Just beautiful
 <br/>
 
 <br/>

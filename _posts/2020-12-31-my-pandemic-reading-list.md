@@ -5,6 +5,5 @@ permalink: 2020books.html
 description: Towards a new normal
 image: 11442163455_530c0d6218_o.jpg
 ---
-![notecard](../assets/images/sonyareneetaylor.jpg){ width=25% }
-
+<img src="../assets/images/sonyareneetaylor.jpg" width="200">
 Some amazing books I read this year... 

@@ -5,5 +5,8 @@ permalink: 2020books.html
 description: Through the pandemic towards a new normal
 image: 48442402376_8638fa3845_o.jpg
 ---
+
+48442402376_8638fa3845_o.jpg
+
+
 <img align="center" src="../assets/images/sonyareneetaylor.jpg" width="400"><br/>
-Some amazing books I read this year... 

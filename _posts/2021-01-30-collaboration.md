@@ -10,9 +10,10 @@ There were so many things about [this Farnam Street podcast episode](https://fs.
 ) that are salient for workplaces in general and the digital work environment that we've now found ourselves in. 
 
 Some highlights: 
-* motivation driven by Mastery, Autonomy, Purpose; based on Daniel Pink's _Drive_ ([summarized here](https://blog.deliveringhappiness.com/the-motivation-trifecta-autonomy-mastery-and-purpose))
+* Motivation driven by Mastery, Autonomy, Purpose; based on Daniel Pink's _Drive_ ([summarized here](https://blog.deliveringhappiness.com/the-motivation-trifecta-autonomy-mastery-and-purpose))
 * Mullenweg describes his time being split into 3rds for the following aspects of his work. (1) the people and the environment in which they work; (2) the product; (3) emergencies. 
 * The company is described as having a strong written communication culture, which I guess one might expect from a company that makes web tools for writers ;) 
+* Make reversible decisions quickly (throw together a prototype); make irreversible decisions deliberately (who you choose as your investor) 
 * [This blog post](https://medium.com/swlh/the-five-levels-of-remote-work-and-why-youre-probably-at-level-2-ccaf05a25b9c) is a summary of Mullenweg's the 5 levels of "distributed work", or you can listen to it described in the podcast episode linked above, or [this one](https://samharris.org/podcasts/194-new-future-work/). 
 My quick notes are as follows: 
 

@@ -14,17 +14,19 @@ this is an extensive style guide, find the key points <a href="https://docs.pyth
 <br> 
 <br> 
 
-## getting started
+## getting started with data science 
 #### <a href="https://datacarpentry.org/" target="_blank">data literacy and training from data carpentry</a> 
 --> <a href="https://carpentrieslab.github.io/python-aos-lesson/" target="_blank">atmosphere and ocean lessons</a>
 <br> domain specific data workshops, including python for atmosphere and ocean netCDF files
 <br> 
-#### [whirlwind tour of python](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/tree/master/)
-Follow along with this series of Jupyter Notebooks. 
-#### [R for Data Science](https://r4ds.had.co.nz/index.html)
-An excellent online textbook for R learning and reference 
 <br> 
-<br> 
+
+## getting started with Bayesian statistics
+My personal curriculum for learning Bayesian statistics as someone with extensive math but light stats training. 
+
+1. #### <a href="https://www.coursera.org/learn/bayesian-statistics" target="_blank">Bayesian Statistics: From Concept to Data Analysis</a> 
+2. #### <a href="https://www.coursera.org/learn/mcmc-bayesian-statistics" target="_blank">Bayesian Statistics: Techniques and Models</a> 
+3. #### <a href="https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/" target="_blank">Probabilistic Programming & Bayesian Methods for Hackers</a> 
 
 ## on my github 
 #### <a href="https://github.com/oceanspace/DatabricksHackathon" target="_blank">Winning Hackathon Submission & Geospatial Tutorial</a>

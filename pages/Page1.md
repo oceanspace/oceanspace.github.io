@@ -27,6 +27,7 @@ My personal curriculum for learning Bayesian statistics as someone with extensiv
 1. #### <a href="https://www.coursera.org/learn/bayesian-statistics" target="_blank">Bayesian Statistics: From Concept to Data Analysis</a> 
 2. #### <a href="https://www.coursera.org/learn/mcmc-bayesian-statistics" target="_blank">Bayesian Statistics: Techniques and Models</a> 
 3. #### <a href="https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/" target="_blank">Probabilistic Programming & Bayesian Methods for Hackers</a> 
+<br> 
 
 ## on my github 
 #### <a href="https://github.com/oceanspace/DatabricksHackathon" target="_blank">Winning Hackathon Submission & Geospatial Tutorial</a>

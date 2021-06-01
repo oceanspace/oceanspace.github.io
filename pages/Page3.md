@@ -2,13 +2,15 @@
 layout: page
 title: Publications
 permalink: Page3.html
-description: Peer-reviewed & Conference abstracts
+description: peer-reviewed, whitepapers, and conference abstracts
 ---
+
 <center>
   <p style="font-size:30px">
     <a href="https://scholar.google.com/citations?user=uEd0tRMAAAAJ&hl=en" target="_blank">Google Scholar Profile</a>
   </p>
 </center>
+google's algorithm is mistakenly attributing another person's work to my profile... updates to come.  
 
 ## Education & Academic Appointments 
 NASA Postdoctoral Fellow at NASA Goddard Space Flight Center's Ocean Ecology Laboratory <br>

@@ -10,6 +10,7 @@ description: peer-reviewed, whitepapers, and conference abstracts
     <a href="https://scholar.google.com/citations?user=uEd0tRMAAAAJ&hl=en" target="_blank">Google Scholar Profile</a>
   </p>
 </center>
+
 <br>
 Google's algorithm is mistakenly attributing another person's work to my profile... updates to come.  
 <br>
@@ -22,6 +23,7 @@ In the meantime, here are two whitepapers I recently submitted to a call for whi
 </ul>
 <br>
 <br>
+
 ## Education & Academic Appointments 
 NASA Postdoctoral Fellow at NASA Goddard Space Flight Center's Ocean Ecology Laboratory <br>
 <br>

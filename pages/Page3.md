@@ -12,17 +12,7 @@ description: peer-reviewed, whitepapers, and conference abstracts
 </center>
 
 <br>
-Google's algorithm is mistakenly attributing another person's work to my profile... updates to come.  
-<br>
-In the meantime, here are two whitepapers I recently submitted to a call for whitepapers by <a href="https://www.ai4esp.org/" target="_blank">AI4ESP</a>:
-<br>
 
-<ul>
-<li><a href="https://www.ai4esp.org/files/AI4ESP1067_Kim_Grace2.pdf" target="_blank">A Quantum-AI Framework for Extreme Weather Prediction</a></li>
-<li><a href="https://www.ai4esp.org/files/AI4ESP1066_Kim_Grace1.pdf" target="_blank">Combining artificial intelligence, Earth observations, and climate models to improve predictability of ice-biogeochemistry interactions</a></li>
-</ul>
-<br>
-<br>
 
 ## Education & Academic Appointments 
 NASA Postdoctoral Fellow at NASA Goddard Space Flight Center's Ocean Ecology Laboratory <br>

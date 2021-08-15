@@ -10,4 +10,4 @@ I've been listening to [this podcast](https://brenebrown.com/podcast/introducing
 [Brené Brown: The Biggest Myth About Vulnerability](https://www.youtube.com/watch?v=ZkDaKKkFi6Y)
 
 
-My favorite book on presentations: [Presentation Zen](https://www.goodreads.com/book/show/1908456.Presentation_Zen)
+My favorite book on presentations, [Presentation Zen](https://www.goodreads.com/book/show/1908456.Presentation_Zen), has helped me work through the vulnerability of presentations over the years. 

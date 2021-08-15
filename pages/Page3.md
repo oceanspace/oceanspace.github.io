@@ -5,9 +5,9 @@ permalink: Page3.html
 description: peer-reviewed, whitepapers, and conference abstracts
 ---
 
+## Publications
 <center>
   <p style="font-size:30px">
-    Publications: 
     <a href="https://scholar.google.com/citations?user=X-cCqywAAAAJ&hl=en" target="_blank">Google Scholar Profile</a>
   </p>
 </center>

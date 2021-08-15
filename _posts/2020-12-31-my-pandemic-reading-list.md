@@ -30,18 +30,15 @@ image: 48442402376_8638fa3845_o.jpg
 <br/>
 
 [Solutions and Other Problems by Allie Brosh](http://hyperboleandahalf.blogspot.com/)<br/>
-This book made me laugh so hard and rang so painfully true at the same time. 
 <br/>
 
 [Zen in the Art of Writing by Ray Bradbury](https://www.goodreads.com/book/show/103761.Zen_in_the_Art_of_Writing)  
 <br/> 
 
 [For the Love of Men: From Toxic to a More Mindful Masculinity by Elizabeth Plank](http://www.elizabethplank.com/book)<br/>
-My reading of this book was inspired by Dax Shepard's awareness-raising conversations around toxic masculinity.  
 <br/>
 
 [All We Can Save edited by Dr. Ayana Elizabeth Johnson & Dr. Katharine K. Wilkinson](https://www.allwecansave.earth/)<br/>
-Just beautiful
 <br/>
 
 <br/>

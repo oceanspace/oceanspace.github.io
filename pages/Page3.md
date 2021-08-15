@@ -7,7 +7,7 @@ description: peer-reviewed, whitepapers, and conference abstracts
 
 <center>
   <p style="font-size:30px">
-    <a href="https://scholar.google.com/citations?user=uEd0tRMAAAAJ&hl=en" target="_blank">Google Scholar Profile</a>
+    <a href="https://scholar.google.com/citations?user=X-cCqywAAAAJ&hl=en" target="_blank">Google Scholar Profile</a>
   </p>
 </center>
 
